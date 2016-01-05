@@ -24,7 +24,11 @@ var mailer = require('../mailer/mail');
 var Slack = require('node-slack')
 var slack = new Slack('https://hooks.slack.com/services/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');
 
+<<<<<<< HEAD
 test3 changed cool
+=======
+test 2 lionel
+>>>>>>> 7999f93cee7483f3dc9fca079f06bad17fbfdb35
 
 exports.agent = function (req, res, next, id) {
 
