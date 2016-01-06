@@ -24,15 +24,10 @@ var mailer = require('../mailer/mail');
 var Slack = require('node-slack')
 var slack = new Slack('https://hooks.slack.com/services/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');
 
-
 lionel
 22
-wsdsfsq
-test3modifier
-test33modif add
-test33 second modif
 exports.agent = function (req, res, next, id) {
-i add  test3 nw modif here
+
     Agent
         .findOne({
             _id: id
