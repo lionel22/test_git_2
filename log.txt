@@ -1,0 +1,82 @@
+commit 361f9700c60c4b0388c42205f193c10d74a67082
+Author: Lionel DEMANOU <lionel.demanou@compareagences.com>
+Date:   Wed Jan 6 10:57:56 2016 +0100
+
+    modif added to previous
+
+commit e64d2764c639ce38817d1a7e88fa069546474c26
+Author: Lionel DEMANOU <lionel.demanou@compareagences.com>
+Date:   Wed Jan 6 10:55:54 2016 +0100
+
+    new modif added
+
+commit 8b85729336def52c7b3868e25f8e8025543fd523
+Author: Lionel DEMANOU <lionel.demanou@compareagences.com>
+Date:   Wed Jan 6 10:39:50 2016 +0100
+
+    log commit
+
+commit 3f6e7f4bc5f5034546814eb801983868573f144a
+Author: Lionel DEMANOU <lionel.demanou@compareagences.com>
+Date:   Wed Jan 6 09:57:15 2016 +0100
+
+     new modif
+    
+     i added just new modif on file agent.js
+
+commit 6969f7fc6152385e4355f18f5de7441d741c31ff
+Author: Lionel DEMANOU <lionel.demanou@compareagences.com>
+Date:   Tue Jan 5 17:36:22 2016 +0100
+
+    yolo
+
+commit 2c713978fb40fdf80eb29c17db68832413056f03
+Merge: 8c0497c 7999f93
+Author: Lionel DEMANOU <lionel.demanou@compareagences.com>
+Date:   Tue Jan 5 17:15:54 2016 +0100
+
+    conflict resolved
+
+commit 8c0497cbfee2c334a4fe72caf6b35586bb925b58
+Author: Lionel DEMANOU <lionel.demanou@compareagences.com>
+Date:   Tue Jan 5 17:13:23 2016 +0100
+
+    hhaha
+
+commit 7999f93cee7483f3dc9fca079f06bad17fbfdb35
+Author: Lionel DEMANOU <lionel.demanou@compareagences.com>
+Date:   Tue Jan 5 17:12:28 2016 +0100
+
+    modifier 2
+
+commit 7e0df0761e2b0d57a2c47023bf1780a8b3b91bec
+Author: Lionel DEMANOU <lionel.demanou@compareagences.com>
+Date:   Tue Jan 5 16:47:02 2016 +0100
+
+    modifier
+
+commit ceca39ae09e0e929f9cd1e33ca812984404c0e2b
+Author: Lionel DEMANOU <lionel.demanou@compareagences.com>
+Date:   Tue Jan 5 16:27:01 2016 +0100
+
+    cool
+
+commit 9b0b4f90067edf6c3431d0b45f5184540b0fee51
+Author: Lionel DEMANOU <lionel.demanou@compareagences.com>
+Date:   Tue Jan 5 16:05:50 2016 +0100
+
+    my agent file
+    
+     just added this file for more details explained
+
+commit 93760fedd8b3ae4c258c22510d99c2c705d00076
+Author: Lionel DEMANOU <lionel.demanou@compareagences.com>
+Date:   Tue Jan 5 15:29:29 2016 +0100
+
+    what the fuck
+
+commit 2fc4d965b32c558b01fb2cd666ac68b7e3c0adfd
+Author: Lionel DEMANOU <lionel.demanou@compareagences.com>
+Date:   Tue Jan 5 12:15:13 2016 +0100
+
+    first commit
