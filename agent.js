@@ -28,7 +28,8 @@ var slack = new Slack('https://hooks.slack.com/services/T07UPD2Q5/B07UP6A8Y/2Nr9
 other change
 exports.agent = function (req, res, next, id) {
 
-    Agent
+    yoloylo
+	Agent
         .findOne({
             _id: id
         })
