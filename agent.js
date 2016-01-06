@@ -25,6 +25,7 @@ var Slack = require('node-slack')
 var slack = new Slack('https://hooks.slack.com/services/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');
 
 test3 changed cool
+local modif
 
 new modifié what i added before revert. and that is the next step
 
